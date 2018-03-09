@@ -1,0 +1,4 @@
+命令：
+ git add readme.txt
+ git commit -m "周总结规定"
+ git push origin master
